@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:Российские
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Первый Канал HD
+#EXTGRP:Российские
+https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:-1,2x2 HD
+#EXTGRP:Детские
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1,СТС HD
+#EXTGRP:Российские
+http://103.194.169.171:8282/RU:sts_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Российские
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1,НТВ FHD
+#EXTGRP:Российские
+http://103.194.169.171:8282/NTV_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
