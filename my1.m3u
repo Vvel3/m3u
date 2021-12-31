@@ -1,22 +1,55 @@
 #EXTM3U
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:Российские
+#EXTINF:-1,1. Россия 1 HD
+#EXTGRP:Обычные
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Первый Канал HD
-#EXTGRP:Российские
+#EXTINF:-1,2. Первый Канал HD
+#EXTGRP:Обычные
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
-#EXTINF:-1,2x2 HD
-#EXTGRP:Детские
+#EXTINF:-1,3. СТС HD
+#EXTGRP:Обычные
+http://103.194.169.171:8282/RU:sts_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,4. НТВ FHD
+#EXTGRP:Обычные
+http://103.194.169.171:8282/NTV_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,5. ТНТ HD
+#EXTGRP:Обычные
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1,6. 2x2 HD
+#EXTGRP:Кино
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1,Amedia Hit HD
+#EXTINF:-1,7. Amedia Hit HD
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1,СТС HD
+#EXTINF:-1,8. Fox HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1,9. SCI-FI
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1,10. Пятница HD
 #EXTGRP:Российские
-http://103.194.169.171:8282/RU:sts_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,ТНТ HD
-#EXTGRP:Российские
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1,НТВ FHD
-#EXTGRP:Российские
-http://103.194.169.171:8282/NTV_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:-1,11. Космос FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1,12. Закат FHD
+#EXTGRP:Релакс
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1,13. Камин HD
+#EXTGRP:Релакс
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1,14. Камин+ HD
+#EXTGRP:Релакс
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1,15. TV1000 HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1,16. TV1000 Action HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,17. TV1000 Русское кино HD
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1,18. TV 1000 Action FHD
+#EXTGRP:Кино
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
