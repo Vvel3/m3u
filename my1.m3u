@@ -8,9 +8,9 @@ https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:-1,3. СТС HD
 #EXTGRP:Обычные
 http://103.194.169.171:8282/RU:sts_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1,4. НТВ FHD
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ (HD)
 #EXTGRP:Обычные
-http://103.194.169.171:8282/NTV_HD_lo/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://91.207.115.228:12000/play/a04b
 #EXTINF:-1,5. ТНТ HD
 #EXTGRP:Обычные
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
